@@ -1,0 +1,2 @@
+# MinicoreFinal
+MiniCore de calificaciones 
